@@ -44,6 +44,6 @@ try {
   console.log('You done messed up, SON. Error: ' + errorName);
 }
 
-const testFunction = () => 42;
+const testFunction = () => 420; //That's better
 
 //bla bla bla test
